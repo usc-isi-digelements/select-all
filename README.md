@@ -1,6 +1,6 @@
 # select-all
 
-A Polymer Element that is used to select (or deselect) all items in a list (`<aggregation-display>` for example).
+A Polymer Element that is used to select (or deselect) all items in a list (for example: a list of items from an `<aggregation-display>`).
 
 ### Example
 ```html
