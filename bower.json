@@ -1,0 +1,27 @@
+{
+  "name": "select-all",
+  "description": "A Polymer Element that is used to select (or deselect) all items in a list.",
+  "version": "1.0.0",
+  "authors": [
+    "Next Century Corporation"
+  ],
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "keywords": [
+    "web-component",
+    "polymer"
+  ],
+  "main": "select-all.html",
+  "homepage": "https://github.com/DigElements/select-all/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.7.0",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#1.3.1"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.1.7",
+    "web-component-tester": "^5.0.0"
+  }
+}
