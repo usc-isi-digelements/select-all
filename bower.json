@@ -1,11 +1,9 @@
 {
   "name": "select-all",
   "description": "A Polymer Element that is used to select (or deselect) all items in a list.",
-  "version": "1.0.0",
-  "authors": [
-    "Next Century Corporation"
-  ],
-  "license": "http://polymer.github.io/LICENSE.txt",
+  "version": "1.0.1",
+  "authors": ["Next Century Corporation"],
+  "license": "Apache-2.0",
   "keywords": [
     "web-component",
     "polymer"
