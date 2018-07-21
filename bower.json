@@ -9,7 +9,7 @@
     "polymer"
   ],
   "main": "select-all.html",
-  "homepage": "https://github.com/DigElements/select-all/",
+  "homepage": "https://github.com/usc-isi-digelements/select-all/",
   "ignore": [
     "/.*",
     "/test/"
